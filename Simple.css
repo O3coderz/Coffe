@@ -1,0 +1,99 @@
+
+	   body{
+	   font-family: 'Teko', sans-serif;
+	   background: linear-gradient(rgba(0,0,0,0.85),rgba(0,0,0,0.65),
+	   rgba(0,0,0,0.35),rgba(0,0,0,0)
+	   ) ,url(Coffee.jpg)no-repeat;
+	   background-size:cover;
+	   
+	   }
+	     .box{width:600px;
+		 float:right;
+		 
+		 }
+	    .box ul li{
+		width:120px;
+		float:left;
+		margin:auto;
+		text-align:center;
+		bottom:5px;
+		}
+	   .box ul li a{
+	   text-decoration:none;
+	   color:white;
+	   letter-spacing: 1px
+	   }
+	   
+	   .box ul li:hover{
+	   background-color:skyblue;
+	   
+	   
+	   }
+	   .box ul li a:hover{
+	   color:black;
+	   }
+	   .wd{
+	   background:#282A35;
+	   width:450px;
+	   height:710px;
+	   opacity:0.9;
+	   padding:70px 0px 60px 0px;
+	   }
+	   .wd h1{
+	   text-align:center;
+	   text-transform:uppercase;
+	   font-weight:100px;
+	   color:white;
+	   letter-spacing: 3px
+	   }
+	   
+	   .wd h3{
+	   text-align:center;
+	   text-transform:uppercase;
+	   font-weight:30px;
+	   color:white;
+	   letter-spacing: 2px;
+	   font-family: 'Titillium Web', sans-serif;
+	   }
+	    .wd h4{
+	   text-align:center;
+	   text-transform:uppercase;
+	   font-weight:30px;
+	   color:white;
+	   letter-spacing: 2px;
+	   font-family: 'Titillium Web', sans-serif;
+	   padding-top:30px;
+	   margin:40px auto;
+	   }
+	   .coffeegoodsides{
+	   letter-spacing:1px;
+	   padding-left:25px;
+	   padding-right:25px;
+	   color:white;
+	   font-family: 'Titillium Web', sans-serif;
+	   
+	   }
+
+	  .abc{
+	   background-color:skyblue;
+	   color:white;
+	   padding:10px;
+	   padding-left:10px;
+	   border-radius:15px;
+	   border:none;
+	   left:50px;
+	   font-family: 'Teko', sans-serif;
+	   width: 120px;
+	   margin:-14px auto;
+	   font-weight:700;
+	   letter-spacing:1px;
+	   text-transform: uppercase;
+	   
+	   
+	   }
+	   .abc:hover{
+		 background:white; 
+         color:black;		 
+		   
+	   }
+	   

@@ -22,10 +22,12 @@
 	    margin:auto;
 	    text-align:center;
 	    bottom:5px;
-      	    font-size: 30px;
+      	    font-size: 25px;
             padding: 5px;
    	    margin: 0 6px;
-            height: 37px;
+           
+            border: 1px solid white;
+            border-radius: 5px;
     
     
 	    }
@@ -34,15 +36,21 @@
 	   text-decoration:none;
 	   color:white;
 	   letter-spacing: 1px
+	   text-align: center;
+	   display: block;
 	   }
 	   
 	   .box ul li:hover{
 	   background-color:skyblue;
-	   
+	   transition: .4s;
+	   border-radius: 5px;
+	   border: 1px solid #c60202;
+	   box-shadow: 1px 1px 10px white;
 	   
 	   }
-	   .box ul li a:hover{
+	   .box ul li:hover a{
 	   color:black;
+	   transition: .4s;
 	   }
 	   .wd{
 	   background:#282A35;
@@ -90,25 +98,26 @@
 	   background-color:skyblue;
 	   color: #f80000;
 	   display: block;
-           margin-top: 32px;
-           font-size: 20px;
+	   margin-top: 32px;
+	   font-size: 20px;
 	   padding:10px;
-	   
 	   border-radius:15px;
 	   border:none;
 	   left:50px;
 	   font-family: 'Teko', sans-serif;
-	   width: 120px;
+	   width: 160px;
+	   height: 45px;
 	   margin: auto;
 	   font-weight:700;
 	   letter-spacing:1px;
 	   text-transform: uppercase;
-	   
-	   
+	   cursor: pointer;
 	   }
 	   .abc:hover{
 		 background:white; 
-         color:black;		 
+         color:black;
+         transition: .4s;
+         box-shadow: .5px .5px 15px yellow;		 
 		   
 	   }
 	   

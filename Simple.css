@@ -19,17 +19,13 @@
 	   .box ul li{
 	    width:120px;
 	    float:left;
-	    margin:auto;
 	    text-align:center;
 	    bottom:5px;
-      	    font-size: 25px;
-            padding: 5px;
-   	    margin: 0 6px;
-           
-            border: 1px solid white;
-            border-radius: 5px;
-    
-    
+	    font-size: 25px;
+	    padding: 0px;
+	    margin: 0 10px;
+	    border: 1px solid white;
+	    border-radius: 5px;
 	    }
 
 	   .box ul li a{
